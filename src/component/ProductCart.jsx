@@ -2,7 +2,7 @@ import React from 'react';
 
 const ProductCart = () => {
   return (
-    <div className="bg-white p-3 w-[280px] my-6 border ml-4 border-gray-300 rounded-md shadow-sm">
+    <div className="bg-white p-3 w-[280px] my-6  border ml-4 border-gray-300 rounded-md shadow-sm">
       <div className="flex flex-col items-center">
         <img className="w-[120px] h-[140px] object-cover" 
           src='https://cdn.dmart.in/images/products/MAY110003135xx2MAY23_5_P.jpg' 
@@ -11,7 +11,7 @@ const ProductCart = () => {
       </div>
       <div className="mt-2">
         <h3 className="text-gray-800 text-sm font-semibold">
-          Nippo Ignite 3NR AA Battery Cell - 10 Pieces : 1 Unit
+          Nippo Ignite 3NR AA Battery Cell juuin- 10 Pieces : 1 Unit
         </h3>
       </div>
       <div className="flex justify-between items-center mt-4">
